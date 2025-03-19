@@ -6,3 +6,8 @@
 
 注意：只能应用于佳能单反或无反相机
 
+Canon 102 Picture Styles + Fujifilm Film Simulation Profiles + Canon Fluorite Lens Color Resources
+
+This repository provides a powerful treasure trove for post-processing photography—combining Canon’s rich picture styles, classic Fujifilm film simulation effects, and the unique color calibration of Canon’s fluorite lenses. These distinctive Picture Style files allow you to instantly elevate your photos with professional-grade quality and artistic atmosphere, without complex post-processing. Whether you’re a professional photographer or an enthusiast, these styles enable diverse creative visuals effortlessly.
+
+Note: Compatible only with Canon DSLR or mirrorless cameras.
